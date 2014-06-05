@@ -1,0 +1,269 @@
+eeschema (2012-01-19 BZR 3256)-stable  >> Creation date: 7/7/2012 7:56:21 PM
+
+#Cmp ( order = Reference )
+| BT1        BAT-HLD-001 3V COIN CELL; LNX-BAT-HLD-001
+| C1         1uF         ; SM0603      
+| C2         150uF 25V   ; SMD_Capacitor_Case_F
+| C3         4.7uF       ; SM0805      
+| C4         4.7uF       ; SM0603      
+| C5         4.7uF       ; SM0805      
+| C6         4.7uF       ; SM0805      
+| C7         100nF       ; SM0603      
+| C8         100nF       ; SM0603      
+| C9         150uF 25V   ; SMD         
+| C10        150uF 25V   ; SMD_Capacitor_Case_F
+| C11        150uF 25V   ; SMD_Capacitor_Case_F
+| C12        150uF 25V   ; SMD_Capacitor_Case_F
+| C13        100nF       ; SM0805      
+| C14        470pF       ; SM0603      
+| C15        4.7uF       ; SM0805      
+| C16        100nF       ; SM0603      
+| C17        100nF       ; SM0603      
+| C18        150uF 25V   ; SMD         
+| C19        150uF 25V   ; SMD_Capacitor_Case_F
+| C20        150uF 25V   ; SMD_Capacitor_Case_F
+| C21        150uF 25V   ; SMD_Capacitor_Case_F
+| C22        100nF       ; SM0805      
+| C23        470pF       ; SM0603      
+| C24        4.7uF       ; SM0805      
+| C25        100nF       ; SM0603      
+| C26        100nF       ; SM0603      
+| C27        150uF 25V   ; SMD         
+| C28        150uF 25V   ; SMD_Capacitor_Case_F
+| C29        150uF 25V   ; SMD_Capacitor_Case_F
+| C30        150uF 25V   ; SMD_Capacitor_Case_F
+| C31        100nF       ; SM0805      
+| C32        470pF       ; SM0603      
+| C33        18nF        ; SM0603      
+| C34        10uF        ; SM0805      
+| C35        100nF       ; SM0603      
+| C36        10uF        ; SM0805      
+| C37        10uF        ; SM0805      
+| C38        100nF       ; SM0603      
+| C39        100nF       ; SM0603      
+| C40        5pF         ; SM0603      
+| C41        100pF       ; SM0603      
+| C42        5pF         ; SM0603      
+| C43        100nF       ; SM0603      
+| D1         SS14        ; DO-214AC    
+| D2         BAS16       ; SOD-123F    
+| D3         BAS16       ; SOD-123F    
+| D4         SS33        ; DO-214A     
+| D5         SS14        ; DO-214AC    
+| D6         BAS16       ; SOD-123F    
+| D7         BAS16       ; SOD-123F    
+| D8         SS33        ; DO-214A     
+| D9         SS14        ; DO-214AC    
+| D10        BAS16       ; SOD-123F    
+| D11        BAS16       ; SOD-123F    
+| D12        SS33        ; DO-214A     
+| D13        1N4148 SMD  ; SOD-123F    
+| D14        SS14        ; DO-214AC    
+| D15        LED         ; LED-0603    
+| D16        LED         ; LED-0603    
+| D17        LED         ; LED-0603    
+| D18        LED         ; LED-0603    
+| D19        LED         ; LED-0603    
+| J1         MOLEX 053398-0871; PICOBLADE8  
+| J2         MOLEX 053398-0471; PICOBLADE4  
+| L1         15uH        ; SM0603      
+| L2         INDUCTOR    ; Wurth 7443321000
+| L3         INDUCTOR    ; Wurth 7443321000
+| L4         INDUCTOR    ; Wurth 7443321000
+| P1         CONN_2      ; bornier2    
+| P2         20020106-H021A01LF; bornier2    
+| P3         20020106-H021A01LF; bornier2    
+| P4         20020106-H021A01LF; bornier2    
+| P5         CONN_3X2    ; TC2030-MCP-NL
+| Q1         FDS6298     ; FDS6298     
+| Q2         FDS6298     ; FDS6298     
+| Q3         FDS6298     ; FDS6298     
+| Q4         FDS6298     ; FDS6298     
+| Q5         FDS6298     ; FDS6298     
+| Q6         FDS6298     ; FDS6298     
+| R1         10k         ; SM0603      
+| R2         470         ; SM0603      
+| R3         10k 1%      ; SM0603      
+| R4         2k4 1%      ; SM0603      
+| R5         10R         ; SM0603      
+| R6         10k         ; SM0603      
+| R7         10k         ; SM0603      
+| R8         22          ; SM0603      
+| R9         22          ; SM0603      
+| R10        10k         ; SM0603      
+| R11        2k4         ; SM0603      
+| R12        10k         ; SM0603      
+| R13        10k         ; SM0603      
+| R14        22          ; SM0603      
+| R15        22          ; SM0603      
+| R16        10k         ; SM0603      
+| R17        2k4         ; SM0603      
+| R18        10k         ; SM0603      
+| R19        10k         ; SM0603      
+| R20        22          ; SM0603      
+| R21        22          ; SM0603      
+| R22        10k         ; SM0603      
+| R23        2k4         ; SM0603      
+| R24        470         ; SM0603      
+| R25        470         ; SM0603      
+| R26        470         ; SM0603      
+| R27        470         ; SM0603      
+| R28        31.6K 1%    ; SM0603      
+| R29        10K 1%      ; SM0603      
+| R30        1K          ; SM0603      
+| R31        1k          ; SM0603      
+| R32        10k         ; SM0603      
+| R33        10k         ; SM0603      
+| R34        10k         ; SM0603      
+| R35        0R          ; SM0603      
+| R36        0.05ohm     ; SM2512      
+| R37        0.05ohm     ; SM2512      
+| R38        0.05ohm     ; SM2512      
+| R39        1K          ; SM0603      
+| R40        470         ; SM0603      
+| R41        1K          ; SM0603      
+| R42        1K          ; SM0603      
+| R43        1K          ; SM0603      
+| U1         DSPIC33FJ16GS502-I/SO; SO28        
+| U2         LM5101      ; SO8E        
+| U3         LM5101      ; SO8E        
+| U4         LM5101      ; SO8E        
+| U5         MCP16301    ; SOT23_6     
+| U6         MCP79410-I/ST; MSOP_8      
+| X1         CRYSTAL     ; ABS07-XTAL  
+#End Cmp
+
+#Cmp ( order = Value )
+| 0.05ohm      R36       ; SM2512      
+| 0.05ohm      R37       ; SM2512      
+| 0.05ohm      R38       ; SM2512      
+| 0R           R35       ; SM0603      
+| 100nF        C7        ; SM0603      
+| 100nF        C8        ; SM0603      
+| 100nF        C13       ; SM0805      
+| 100nF        C16       ; SM0603      
+| 100nF        C17       ; SM0603      
+| 100nF        C22       ; SM0805      
+| 100nF        C25       ; SM0603      
+| 100nF        C26       ; SM0603      
+| 100nF        C31       ; SM0805      
+| 100nF        C35       ; SM0603      
+| 100nF        C38       ; SM0603      
+| 100nF        C39       ; SM0603      
+| 100nF        C43       ; SM0603      
+| 100pF        C41       ; SM0603      
+| 10k          R1        ; SM0603      
+| 10k          R6        ; SM0603      
+| 10k          R7        ; SM0603      
+| 10k          R10       ; SM0603      
+| 10k          R12       ; SM0603      
+| 10k          R13       ; SM0603      
+| 10k          R16       ; SM0603      
+| 10k          R18       ; SM0603      
+| 10k          R19       ; SM0603      
+| 10k          R22       ; SM0603      
+| 10k          R32       ; SM0603      
+| 10k          R33       ; SM0603      
+| 10k          R34       ; SM0603      
+| 10k 1%       R3        ; SM0603      
+| 10K 1%       R29       ; SM0603      
+| 10R          R5        ; SM0603      
+| 10uF         C34       ; SM0805      
+| 10uF         C36       ; SM0805      
+| 10uF         C37       ; SM0805      
+| 150uF 25V    C2        ; SMD_Capacitor_Case_F
+| 150uF 25V    C9        ; SMD         
+| 150uF 25V    C10       ; SMD_Capacitor_Case_F
+| 150uF 25V    C11       ; SMD_Capacitor_Case_F
+| 150uF 25V    C12       ; SMD_Capacitor_Case_F
+| 150uF 25V    C18       ; SMD         
+| 150uF 25V    C19       ; SMD_Capacitor_Case_F
+| 150uF 25V    C20       ; SMD_Capacitor_Case_F
+| 150uF 25V    C21       ; SMD_Capacitor_Case_F
+| 150uF 25V    C27       ; SMD         
+| 150uF 25V    C28       ; SMD_Capacitor_Case_F
+| 150uF 25V    C29       ; SMD_Capacitor_Case_F
+| 150uF 25V    C30       ; SMD_Capacitor_Case_F
+| 15uH         L1        ; SM0603      
+| 18nF         C33       ; SM0603      
+| 1K           R30       ; SM0603      
+| 1k           R31       ; SM0603      
+| 1K           R39       ; SM0603      
+| 1K           R41       ; SM0603      
+| 1K           R42       ; SM0603      
+| 1K           R43       ; SM0603      
+| 1N4148 SMD   D13       ; SOD-123F    
+| 1uF          C1        ; SM0603      
+| 20020106-H021A01LF P2        ; bornier2    
+| 20020106-H021A01LF P3        ; bornier2    
+| 20020106-H021A01LF P4        ; bornier2    
+| 22           R8        ; SM0603      
+| 22           R9        ; SM0603      
+| 22           R14       ; SM0603      
+| 22           R15       ; SM0603      
+| 22           R20       ; SM0603      
+| 22           R21       ; SM0603      
+| 2k4          R11       ; SM0603      
+| 2k4          R17       ; SM0603      
+| 2k4          R23       ; SM0603      
+| 2k4 1%       R4        ; SM0603      
+| 31.6K 1%     R28       ; SM0603      
+| 4.7uF        C3        ; SM0805      
+| 4.7uF        C4        ; SM0603      
+| 4.7uF        C5        ; SM0805      
+| 4.7uF        C6        ; SM0805      
+| 4.7uF        C15       ; SM0805      
+| 4.7uF        C24       ; SM0805      
+| 470          R2        ; SM0603      
+| 470          R24       ; SM0603      
+| 470          R25       ; SM0603      
+| 470          R26       ; SM0603      
+| 470          R27       ; SM0603      
+| 470          R40       ; SM0603      
+| 470pF        C14       ; SM0603      
+| 470pF        C23       ; SM0603      
+| 470pF        C32       ; SM0603      
+| 5pF          C40       ; SM0603      
+| 5pF          C42       ; SM0603      
+| BAS16        D2        ; SOD-123F    
+| BAS16        D3        ; SOD-123F    
+| BAS16        D6        ; SOD-123F    
+| BAS16        D7        ; SOD-123F    
+| BAS16        D10       ; SOD-123F    
+| BAS16        D11       ; SOD-123F    
+| BAT-HLD-001 3V COIN CELL BT1       ; LNX-BAT-HLD-001
+| CONN_2       P1        ; bornier2    
+| CONN_3X2     P5        ; TC2030-MCP-NL
+| CRYSTAL      X1        ; ABS07-XTAL  
+| DSPIC33FJ16GS502-I/SO U1        ; SO28        
+| FDS6298      Q1        ; FDS6298     
+| FDS6298      Q2        ; FDS6298     
+| FDS6298      Q3        ; FDS6298     
+| FDS6298      Q4        ; FDS6298     
+| FDS6298      Q5        ; FDS6298     
+| FDS6298      Q6        ; FDS6298     
+| INDUCTOR     L2        ; Wurth 7443321000
+| INDUCTOR     L3        ; Wurth 7443321000
+| INDUCTOR     L4        ; Wurth 7443321000
+| LED          D15       ; LED-0603    
+| LED          D16       ; LED-0603    
+| LED          D17       ; LED-0603    
+| LED          D18       ; LED-0603    
+| LED          D19       ; LED-0603    
+| LM5101       U2        ; SO8E        
+| LM5101       U3        ; SO8E        
+| LM5101       U4        ; SO8E        
+| MCP16301     U5        ; SOT23_6     
+| MCP79410-I/ST U6        ; MSOP_8      
+| MOLEX 053398-0471 J2        ; PICOBLADE4  
+| MOLEX 053398-0871 J1        ; PICOBLADE8  
+| SS14         D1        ; DO-214AC    
+| SS14         D5        ; DO-214AC    
+| SS14         D9        ; DO-214AC    
+| SS14         D14       ; DO-214AC    
+| SS33         D4        ; DO-214A     
+| SS33         D8        ; DO-214A     
+| SS33         D12       ; DO-214A     
+#End Cmp
+
+#End List
