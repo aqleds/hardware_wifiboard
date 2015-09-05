@@ -1,4 +1,4 @@
-hardware_mainboard
+hardware_wifiboard
 ==================
 
-AqLeds main board hardware
+AqLeds wifi IOT led board
