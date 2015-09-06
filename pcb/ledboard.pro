@@ -1,6 +1,6 @@
-update=Monday, 12 August 2013 14:50:53
+update=2015 September 05, Saturday 22:45:54
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -42,12 +42,7 @@ LibName12=footprints
 LibName13=nbeelogo3_flip
 [eeschema]
 version=1
-LibDir=../ledboard
-NetFmtName=
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
+LibDir=kicad-ESP8266
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -80,3 +75,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=components
+LibName32=kicad-ESP8266/ESP8266
